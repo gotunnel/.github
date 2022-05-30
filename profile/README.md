@@ -16,7 +16,7 @@ Almost every alternative project is either not open-source or exists as a standa
 - HTTP and HTTPS handling
 - Public Key Authentication
 - SSL Certificates on Server
-- Support for Websockets
+- Supports Proxying Websockets
 
 ### Coming Soon
 
